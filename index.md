@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Lizliu1991/newproject.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hello Liz
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
